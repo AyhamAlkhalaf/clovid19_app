@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9bf7e14698cccdca37a6f1a02cf7d79e",
+      "css": "female",
+      "code": 61826,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ca2d64f8a3ea7cbf6af45898b2dcf35e",
+      "css": "male",
+      "code": 61827,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "14a5c956494815ca68f98a1a975ceb2f",
+      "css": "label_outline",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "cd7c413a8d3b5744e558253329124516",
+      "css": "menu",
+      "code": 59393,
+      "src": "material"
+    }
+  ]
+}
